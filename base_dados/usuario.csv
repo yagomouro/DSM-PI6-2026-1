@@ -1,0 +1,26 @@
+cd_usuario,nm_usuario,ch_cpf_usuario,ch_cnpj_usuario,dt_nascimento_usuario,nr_celular_usuario,sg_estado_usuario,nm_cidade_usuario,cd_foto_usuario,cd_senha_usuario,cd_email_usuario,fg_admin,qt_advertencias_usuario,fg_usuario_deletado
+1,Yago Silva,12345678901,,1990-05-15,11987654321,SP,São Paulo,1.png,hash123,yago@email.com,0,0,0
+2,Maria Santos,98765432109,,1985-12-10,21901234567,RJ,Rio de Janeiro,2.png,hash123,maria@example.com,0,0,0
+3,Pedro Oliveira,45678901234,,1978-08-20,31955556666,MG,Belo Horizonte,3.png,hash123,pedro@example.com,0,0,0
+4,Empresa ABC Ltda,,12345678901234,,11999998888,SP,São Paulo,4.png,hash123,empresa@example.com,0,0,0
+5,Comércio XYZ Ltda,,98765432109876,,21988887777,RJ,Rio de Janeiro,default.png,hash123,comercio@example.com,0,0,0
+6,Ana Paula Costa,12312312311,,1992-04-11,11970010001,SP,Campinas,default.png,hash123,anapaulacosta@example.com,0,0,0
+7,Lucas Ferreira,23423423422,,1994-09-22,11970010002,SP,Franca,default.png,hash123,lucasferreira@example.com,0,0,0
+8,Juliana Lima,34534534533,,1989-03-07,31970010003,MG,Uberlândia,default.png,hash123,julianalima@example.com,0,0,0
+9,Carlos Souza,45645645644,,1987-11-30,31970010004,MG,Juiz de Fora,default.png,hash123,carlossouza@example.com,0,0,0
+10,Fernanda Rocha,56756756755,,1991-01-15,21970010005,RJ,Niterói,default.png,hash123,fernandarocha@example.com,0,0,0
+11,Rafael Gomes,67867867866,,1988-06-18,41970010006,PR,Curitiba,default.png,hash123,rafaelgomes@example.com,0,0,0
+12,Patrícia Alves,78978978977,,1995-08-09,41970010007,PR,Londrina,default.png,hash123,patriciaalves@example.com,0,0,0
+13,Instituto Esperança,,11122233344455,,11970010008,SP,Ribeirão Preto,default.png,hash123,institutoesperanca@example.com,0,0,0
+14,Associação Viver Bem,,22233344455566,,31970010009,MG,Contagem,default.png,hash123,associacaoviverbem@example.com,0,0,0
+15,João Martins,89089089088,,1993-12-03,11970010010,SP,Santos,default.png,hash123,joaomartins@example.com,0,0,0
+16,Camila Barbosa,90190190199,,1996-07-21,21970010011,RJ,Duque de Caxias,default.png,hash123,camilabarbosa@example.com,0,0,0
+17,Ricardo Melo,11211211210,,1984-10-12,31970010012,MG,Betim,default.png,hash123,ricardomelo@example.com,0,0,0
+18,Larissa Prado,22322322321,,1997-02-28,11970010013,SP,Sorocaba,default.png,hash123,larissaprado@example.com,0,0,0
+19,Thiago Ribeiro,33433433432,,1990-09-14,41970010014,PR,Maringá,default.png,hash123,thiagoribeiro@example.com,0,0,0
+20,Vanessa Duarte,44544544543,,1986-05-19,21970010015,RJ,Nova Iguaçu,default.png,hash123,vanessaduarte@example.com,0,0,0
+21,ONG Mesa Solidária,,33344455566677,,11970010016,SP,Guarulhos,default.png,hash123,ongmesasolidaria@example.com,0,0,0
+22,Cooperativa Aliança,,44455566677788,,31970010017,MG,Montes Claros,default.png,hash123,cooperativaalianca@example.com,0,0,0
+23,Marcos Vinícius,55655655654,,1992-12-25,11970010018,SP,São José dos Campos,default.png,hash123,marcosvinicius@example.com,0,0,0
+24,Aline Farias,66766766765,,1998-01-09,21970010019,RJ,Petrópolis,default.png,hash123,alinefarias@example.com,0,0,0
+25,Bruno Teixeira,77877877876,,1983-04-27,31970010020,MG,Poços de Caldas,default.png,hash123,brunoteixeira@example.com,0,0,0

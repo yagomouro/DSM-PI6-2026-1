@@ -1,0 +1,101 @@
+cd_campanha,cd_usuario_campanha,nm_titulo_campanha,dt_encerramento_campanha,ts_criacao_campanha,nm_cidade_campanha,sg_estado_campanha,ds_acao_campanha,cd_imagem_campanha,fg_campanha_deletada
+1,21,Campanha Solidária 001,2026-04-18 00:00:00,2025-10-03 10:00:00,São Paulo,SP,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_001.png,0
+2,4,Alimentos para Todos 002,2026-04-21 00:00:00,2025-10-05 11:00:00,Rio de Janeiro,RJ,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_002.png,0
+3,1,Mesa Cheia 003,2026-04-24 00:00:00,2025-10-07 12:00:00,Belo Horizonte,MG,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_003.png,0
+4,24,Mutirão da Nutrição 004,2026-04-27 00:00:00,2025-10-09 13:00:00,Franca,SP,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_004.png,0
+5,9,Rede de Apoio Alimentar 005,2026-04-30 00:00:00,2025-10-11 14:00:00,Campinas,SP,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_005.png,0
+6,8,Doação que Alimenta 006,2026-05-03 00:00:00,2025-10-13 15:00:00,Ribeirão Preto,SP,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_006.png,0
+7,8,Campanha da Esperança 007,2026-05-06 00:00:00,2025-10-15 16:00:00,Santos,SP,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_007.png,0
+8,5,Ação Contra a Fome 008,2026-05-09 00:00:00,2025-10-17 09:00:00,São José dos Campos,SP,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_008.png,0
+9,24,Cesta do Bem 009,2026-05-12 00:00:00,2025-10-19 10:00:00,Sorocaba,SP,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_009.png,0
+10,4,Juntos pela Alimentação 010,2026-05-15 00:00:00,2025-10-21 11:00:00,Guarulhos,SP,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_010.png,0
+11,22,Alimento com Amor 011,2026-05-18 00:00:00,2025-10-23 12:00:00,Niterói,RJ,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_011.png,0
+12,24,Projeto Prato Cheio 012,2026-05-21 00:00:00,2025-10-25 13:00:00,Duque de Caxias,RJ,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_012.png,0
+13,18,Campanha Solidária 013,2026-05-24 00:00:00,2025-10-27 14:00:00,Nova Iguaçu,RJ,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_013.png,0
+14,3,Alimentos para Todos 014,2026-05-27 00:00:00,2025-10-29 15:00:00,Petrópolis,RJ,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_014.png,0
+15,19,Mesa Cheia 015,2026-05-30 00:00:00,2025-10-31 16:00:00,Curitiba,PR,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_015.png,0
+16,14,Mutirão da Nutrição 016,2026-06-02 00:00:00,2025-11-02 09:00:00,Londrina,PR,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_016.png,0
+17,2,Rede de Apoio Alimentar 017,2026-06-05 00:00:00,2025-11-04 10:00:00,Maringá,PR,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_017.png,0
+18,1,Doação que Alimenta 018,2026-06-08 00:00:00,2025-11-06 11:00:00,Uberlândia,MG,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_018.png,0
+19,3,Campanha da Esperança 019,2026-06-11 00:00:00,2025-11-08 12:00:00,Contagem,MG,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_019.png,0
+20,7,Ação Contra a Fome 020,2026-06-14 00:00:00,2025-11-10 13:00:00,Betim,MG,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_020.png,0
+21,8,Cesta do Bem 021,2026-06-17 00:00:00,2025-11-12 14:00:00,São Paulo,SP,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_021.png,0
+22,17,Juntos pela Alimentação 022,2026-06-20 00:00:00,2025-11-14 15:00:00,Rio de Janeiro,RJ,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_022.png,0
+23,20,Alimento com Amor 023,2026-06-23 00:00:00,2025-11-16 16:00:00,Belo Horizonte,MG,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_023.png,0
+24,1,Projeto Prato Cheio 024,2026-06-26 00:00:00,2025-11-18 09:00:00,Franca,SP,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_024.png,0
+25,18,Campanha Solidária 025,2026-06-29 00:00:00,2025-11-20 10:00:00,Campinas,SP,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_025.png,0
+26,7,Alimentos para Todos 026,2026-07-02 00:00:00,2025-11-22 11:00:00,Ribeirão Preto,SP,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_026.png,0
+27,23,Mesa Cheia 027,2026-07-05 00:00:00,2025-11-24 12:00:00,Santos,SP,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_027.png,0
+28,21,Mutirão da Nutrição 028,2026-07-08 00:00:00,2025-11-26 13:00:00,São José dos Campos,SP,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_028.png,0
+29,23,Rede de Apoio Alimentar 029,2026-07-11 00:00:00,2025-11-28 14:00:00,Sorocaba,SP,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_029.png,0
+30,18,Doação que Alimenta 030,2026-07-14 00:00:00,2025-11-30 15:00:00,Guarulhos,SP,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_030.png,0
+31,14,Campanha da Esperança 031,2026-07-17 00:00:00,2025-12-02 16:00:00,Niterói,RJ,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_031.png,0
+32,8,Ação Contra a Fome 032,2026-07-20 00:00:00,2025-12-04 09:00:00,Duque de Caxias,RJ,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_032.png,0
+33,15,Cesta do Bem 033,2026-07-23 00:00:00,2025-12-06 10:00:00,Nova Iguaçu,RJ,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_033.png,0
+34,19,Juntos pela Alimentação 034,2026-07-26 00:00:00,2025-12-08 11:00:00,Petrópolis,RJ,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_034.png,0
+35,9,Alimento com Amor 035,2026-07-29 00:00:00,2025-12-10 12:00:00,Curitiba,PR,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_035.png,0
+36,1,Projeto Prato Cheio 036,2026-08-01 00:00:00,2025-12-12 13:00:00,Londrina,PR,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_036.png,0
+37,25,Campanha Solidária 037,2026-08-04 00:00:00,2025-12-14 14:00:00,Maringá,PR,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_037.png,0
+38,6,Alimentos para Todos 038,2026-08-07 00:00:00,2025-12-16 15:00:00,Uberlândia,MG,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_038.png,0
+39,23,Mesa Cheia 039,2026-08-10 00:00:00,2025-12-18 16:00:00,Contagem,MG,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_039.png,0
+40,14,Mutirão da Nutrição 040,2026-08-13 00:00:00,2025-12-20 09:00:00,Betim,MG,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_040.png,0
+41,11,Rede de Apoio Alimentar 041,2026-08-16 00:00:00,2025-12-22 10:00:00,São Paulo,SP,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_041.png,0
+42,9,Doação que Alimenta 042,2026-08-19 00:00:00,2025-12-24 11:00:00,Rio de Janeiro,RJ,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_042.png,0
+43,5,Campanha da Esperança 043,2026-08-22 00:00:00,2025-12-26 12:00:00,Belo Horizonte,MG,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_043.png,0
+44,7,Ação Contra a Fome 044,2026-08-25 00:00:00,2025-12-28 13:00:00,Franca,SP,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_044.png,0
+45,25,Cesta do Bem 045,2026-08-28 00:00:00,2025-12-30 14:00:00,Campinas,SP,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_045.png,0
+46,11,Juntos pela Alimentação 046,2026-08-31 00:00:00,2026-01-01 15:00:00,Ribeirão Preto,SP,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_046.png,0
+47,4,Alimento com Amor 047,2026-09-03 00:00:00,2026-01-03 16:00:00,Santos,SP,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_047.png,0
+48,3,Projeto Prato Cheio 048,2026-09-06 00:00:00,2026-01-05 09:00:00,São José dos Campos,SP,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_048.png,0
+49,13,Campanha Solidária 049,2026-09-09 00:00:00,2026-01-07 10:00:00,Sorocaba,SP,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_049.png,0
+50,4,Alimentos para Todos 050,2026-09-12 00:00:00,2026-01-09 11:00:00,Guarulhos,SP,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_050.png,0
+51,12,Mesa Cheia 051,2026-09-15 00:00:00,2026-01-11 12:00:00,Niterói,RJ,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_051.png,0
+52,12,Mutirão da Nutrição 052,2026-09-18 00:00:00,2026-01-13 13:00:00,Duque de Caxias,RJ,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_052.png,0
+53,20,Rede de Apoio Alimentar 053,2026-09-21 00:00:00,2026-01-15 14:00:00,Nova Iguaçu,RJ,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_053.png,0
+54,9,Doação que Alimenta 054,2026-09-24 00:00:00,2026-01-17 15:00:00,Petrópolis,RJ,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_054.png,0
+55,2,Campanha da Esperança 055,2026-09-27 00:00:00,2026-01-19 16:00:00,Curitiba,PR,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_055.png,0
+56,24,Ação Contra a Fome 056,2026-09-30 00:00:00,2026-01-21 09:00:00,Londrina,PR,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_056.png,0
+57,15,Cesta do Bem 057,2026-10-03 00:00:00,2026-01-23 10:00:00,Maringá,PR,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_057.png,0
+58,18,Juntos pela Alimentação 058,2026-10-06 00:00:00,2026-01-25 11:00:00,Uberlândia,MG,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_058.png,0
+59,4,Alimento com Amor 059,2026-10-09 00:00:00,2026-01-27 12:00:00,Contagem,MG,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_059.png,0
+60,13,Projeto Prato Cheio 060,2026-04-15 00:00:00,2026-01-29 13:00:00,Betim,MG,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_060.png,0
+61,3,Campanha Solidária 061,2026-04-18 00:00:00,2026-01-31 14:00:00,São Paulo,SP,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_061.png,0
+62,18,Alimentos para Todos 062,2026-04-21 00:00:00,2026-02-02 15:00:00,Rio de Janeiro,RJ,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_062.png,0
+63,10,Mesa Cheia 063,2026-04-24 00:00:00,2026-02-04 16:00:00,Belo Horizonte,MG,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_063.png,0
+64,21,Mutirão da Nutrição 064,2026-04-27 00:00:00,2026-02-06 09:00:00,Franca,SP,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_064.png,0
+65,20,Rede de Apoio Alimentar 065,2026-04-30 00:00:00,2026-02-08 10:00:00,Campinas,SP,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_065.png,0
+66,12,Doação que Alimenta 066,2026-05-03 00:00:00,2026-02-10 11:00:00,Ribeirão Preto,SP,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_066.png,0
+67,19,Campanha da Esperança 067,2026-05-06 00:00:00,2026-02-12 12:00:00,Santos,SP,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_067.png,0
+68,7,Ação Contra a Fome 068,2026-05-09 00:00:00,2026-02-14 13:00:00,São José dos Campos,SP,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_068.png,0
+69,23,Cesta do Bem 069,2026-05-12 00:00:00,2026-02-16 14:00:00,Sorocaba,SP,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_069.png,0
+70,3,Juntos pela Alimentação 070,2026-05-15 00:00:00,2026-02-18 15:00:00,Guarulhos,SP,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_070.png,0
+71,2,Alimento com Amor 071,2026-05-18 00:00:00,2026-02-20 16:00:00,Niterói,RJ,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_071.png,0
+72,22,Projeto Prato Cheio 072,2026-05-21 00:00:00,2026-02-22 09:00:00,Duque de Caxias,RJ,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_072.png,0
+73,8,Campanha Solidária 073,2026-05-24 00:00:00,2026-02-24 10:00:00,Nova Iguaçu,RJ,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_073.png,0
+74,25,Alimentos para Todos 074,2026-05-27 00:00:00,2026-02-26 11:00:00,Petrópolis,RJ,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_074.png,0
+75,10,Mesa Cheia 075,2026-05-30 00:00:00,2026-02-28 12:00:00,Curitiba,PR,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_075.png,0
+76,3,Mutirão da Nutrição 076,2026-06-02 00:00:00,2026-03-02 13:00:00,Londrina,PR,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_076.png,0
+77,8,Rede de Apoio Alimentar 077,2026-06-05 00:00:00,2026-03-04 14:00:00,Maringá,PR,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_077.png,0
+78,4,Doação que Alimenta 078,2026-06-08 00:00:00,2026-03-06 15:00:00,Uberlândia,MG,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_078.png,0
+79,13,Campanha da Esperança 079,2026-06-11 00:00:00,2026-03-08 16:00:00,Contagem,MG,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_079.png,0
+80,9,Ação Contra a Fome 080,2026-06-14 00:00:00,2026-03-10 09:00:00,Betim,MG,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_080.png,0
+81,15,Cesta do Bem 081,2026-06-17 00:00:00,2026-03-12 10:00:00,São Paulo,SP,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_081.png,0
+82,21,Juntos pela Alimentação 082,2026-06-20 00:00:00,2026-03-14 11:00:00,Rio de Janeiro,RJ,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_082.png,0
+83,12,Alimento com Amor 083,2026-06-23 00:00:00,2026-03-16 12:00:00,Belo Horizonte,MG,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_083.png,0
+84,6,Projeto Prato Cheio 084,2026-06-26 00:00:00,2026-03-18 13:00:00,Franca,SP,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_084.png,0
+85,12,Campanha Solidária 085,2026-06-29 00:00:00,2026-03-20 14:00:00,Campinas,SP,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_085.png,0
+86,12,Alimentos para Todos 086,2026-07-02 00:00:00,2026-03-22 15:00:00,Ribeirão Preto,SP,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_086.png,0
+87,7,Mesa Cheia 087,2026-07-05 00:00:00,2026-03-24 16:00:00,Santos,SP,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_087.png,0
+88,22,Mutirão da Nutrição 088,2026-07-08 00:00:00,2026-03-26 09:00:00,São José dos Campos,SP,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_088.png,0
+89,9,Rede de Apoio Alimentar 089,2026-07-11 00:00:00,2026-03-28 10:00:00,Sorocaba,SP,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_089.png,0
+90,23,Doação que Alimenta 090,2026-07-14 00:00:00,2026-03-30 11:00:00,Guarulhos,SP,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_090.png,0
+91,22,Campanha da Esperança 091,2026-07-17 00:00:00,2026-04-01 12:00:00,Niterói,RJ,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_091.png,0
+92,21,Ação Contra a Fome 092,2026-07-20 00:00:00,2026-04-03 13:00:00,Duque de Caxias,RJ,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_092.png,0
+93,3,Cesta do Bem 093,2026-07-23 00:00:00,2026-04-05 14:00:00,Nova Iguaçu,RJ,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_093.png,0
+94,20,Juntos pela Alimentação 094,2026-07-26 00:00:00,2026-04-07 15:00:00,Petrópolis,RJ,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_094.png,0
+95,21,Alimento com Amor 095,2026-07-29 00:00:00,2026-04-09 16:00:00,Curitiba,PR,Campanha organizada para atender famílias cadastradas por instituições locais.,campanha_095.png,0
+96,6,Projeto Prato Cheio 096,2026-08-01 00:00:00,2026-04-11 09:00:00,Londrina,PR,Projeto de arrecadação com foco em itens de maior necessidade na região.,campanha_096.png,0
+97,18,Campanha Solidária 097,2026-08-04 00:00:00,2026-04-13 10:00:00,Maringá,PR,Arrecadação de alimentos para famílias em situação de vulnerabilidade social.,campanha_097.png,0
+98,24,Alimentos para Todos 098,2026-08-07 00:00:00,2026-04-15 11:00:00,Uberlândia,MG,Campanha voltada ao atendimento de comunidades com insegurança alimentar.,campanha_098.png,0
+99,8,Mesa Cheia 099,2026-08-10 00:00:00,2026-04-17 12:00:00,Contagem,MG,Iniciativa para reforçar a distribuição de alimentos básicos e perecíveis.,campanha_099.png,0
+100,6,Mutirão da Nutrição 100,2026-08-13 00:00:00,2026-04-19 13:00:00,Betim,MG,Ação social para ampliar o acesso a refeições e itens essenciais.,campanha_100.png,0
