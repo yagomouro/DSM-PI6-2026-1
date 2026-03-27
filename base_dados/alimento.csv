@@ -1,0 +1,31 @@
+cd_alimento,nm_alimento,sg_medida_alimento,nm_tipo_alimento,cd_tipo_alimento
+1,Leite,L,Mais doados,1
+2,Leite em pó,KG,Mais doados,1
+3,Macarrão,KG,Mais doados,1
+4,Café,KG,Mais doados,1
+5,Açúcar,KG,Mais doados,1
+6,Óleo,L,Mais doados,1
+7,Ovos,DZ,Mais doados,1
+8,Azeite,L,Mais doados,1
+9,Sal,KG,Mais doados,1
+10,Farinha de trigo,KG,Mais doados,1
+11,Fubá,KG,Mais doados,1
+12,Arroz,KG,Mais doados,1
+13,Feijão,KG,Mais doados,1
+14,Carne Bovina,KG,Carnes,2
+15,Linguiça,KG,Carnes,2
+16,Carne de Frango,KG,Carnes,2
+17,Alface,KG,Verduras e Legumes,3
+18,Tomate,KG,Verduras e Legumes,3
+19,Cebola,KG,Verduras e Legumes,3
+20,Batata,KG,Verduras e Legumes,3
+21,Cenoura,KG,Verduras e Legumes,3
+22,Abóbora,KG,Verduras e Legumes,3
+23,Laranja,KG,Frutas,4
+24,Banana,KG,Frutas,4
+25,Maçã,KG,Frutas,4
+26,Mamão,KG,Frutas,4
+27,Queijo,KG,Derivados do leite,5
+28,Margarina,KG,Derivados do leite,5
+29,Iogurte,L,Derivados do leite,5
+30,Creme de leite,KG,Derivados do leite,5
