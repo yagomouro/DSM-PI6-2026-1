@@ -150,7 +150,7 @@ Relacionamentos:
 
 ### Modelagem Lógica (MongoDB com Prisma)
 
-<img src="https://github.com/yagomouro/DSM-PI6-2026-1/blob/master/documentacao/docs/NoAM.png" alt="Modelagem lógica do banco de dados" width="65%">
+<img src="https://github.com/yagomouro/DSM-PI6-2026-1/blob/master/documentacao/docs/NoAM.svg" alt="Modelagem lógica do banco de dados" width="65%">
 
 **Coleções Principais:**
 
